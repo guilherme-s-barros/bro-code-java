@@ -1,6 +1,8 @@
+package io.github.guilherme_s_barros.weight_convertion;
+
 import java.util.Scanner;
 
-public class WeightConversion {
+public class Program {
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
 

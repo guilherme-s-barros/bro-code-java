@@ -1,6 +1,8 @@
+package io.github.guilherme_s_barros.mad_libs;
+
 import java.util.Scanner;
 
-public class MadLibsGame {
+public class Program {
     public static void main(String[] args) {
         String adjective1, noun1, adjective2, verb1, adjective3;
 

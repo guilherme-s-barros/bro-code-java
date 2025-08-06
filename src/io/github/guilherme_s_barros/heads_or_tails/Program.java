@@ -1,8 +1,10 @@
+package io.github.guilherme_s_barros.heads_or_tails;
+
 import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class HeadsOrTails {
+public class Program {
     public static void main(String[] args) {
         var random = new Random();
         var scanner = new Scanner(System.in);

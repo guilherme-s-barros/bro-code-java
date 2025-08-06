@@ -1,3 +1,5 @@
+package io.github.guilherme_s_barros.math;
+
 import java.util.Scanner;
 
 public class CalculateArea {

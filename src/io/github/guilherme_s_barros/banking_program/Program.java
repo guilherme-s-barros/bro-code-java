@@ -1,6 +1,8 @@
+package io.github.guilherme_s_barros.banking_program;
+
 import java.util.Scanner;
 
-public class BankingProgram {
+public class Program {
     private static double balance = 0;
     private static final Scanner scanner = new Scanner(System.in);
 

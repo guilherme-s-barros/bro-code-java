@@ -1,3 +1,5 @@
+package io.github.guilherme_s_barros.io;
+
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;

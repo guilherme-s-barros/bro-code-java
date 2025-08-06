@@ -1,7 +1,8 @@
-import java.util.Arrays;
+package io.github.guilherme_s_barros.extract_username_and_domain;
+
 import java.util.Scanner;
 
-public class ExtractUsernameAndDomainFromEmail {
+public class Program {
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
 

@@ -1,6 +1,8 @@
+package io.github.guilherme_s_barros.compound_interest_calculator;
+
 import java.util.Scanner;
 
-public class CompoundInterestCalculator {
+public class Program {
     public static void main(String[] args) {
         var scanner = new Scanner(System.in);
 

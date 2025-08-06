@@ -1,6 +1,8 @@
+package io.github.guilherme_s_barros.shopping_cart;
+
 import java.util.Scanner;
 
-public class ShoppingCart {
+public class Program {
     public static void main(String[] args) {
         String item;
         double price, total;

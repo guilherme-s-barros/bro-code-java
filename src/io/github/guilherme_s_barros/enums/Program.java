@@ -1,4 +1,4 @@
-package enums;
+package io.github.guilherme_s_barros.enums;
 
 import java.util.Scanner;
 
